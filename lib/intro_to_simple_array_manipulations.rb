@@ -33,3 +33,4 @@ end
 def using_uniq(array1)
   array1.uniq
 end
+
